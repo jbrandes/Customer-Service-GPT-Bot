@@ -1,8 +1,5 @@
 import openai
 
-
-
-
 openai.api_key = "YOUR OPENAI API HERE"
 
 model_engine = "text-davinci-003"
