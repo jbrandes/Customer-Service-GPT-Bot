@@ -3,7 +3,7 @@ import openai
 
 
 
-openai.api_key = "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"
+openai.api_key = "YOUR OPENAI API HERE"
 
 model_engine = "text-davinci-003"
 prompt = input("Whatis your troubleshooting question? Please be as specific as possible. ")
